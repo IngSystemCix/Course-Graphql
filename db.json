@@ -1,0 +1,35 @@
+{
+  "persons": [
+    {
+      "name": "John",
+      "phone": "+5412345678",
+      "age": 35,
+      "street": "Calle la Florida 234",
+      "city": "Havana",
+      "id": "asdasdas-8dd45w4-d4as-8dasd4d1"
+    },
+    {
+      "name": "Jane",
+      "age": 28,
+      "phone": "+1 123 456 789",
+      "street": "123 Main St",
+      "city": "New York",
+      "id": "b7d8f9e2-3c4d-4f5a-9b6e-7d8f9e2c4d5a"
+    },
+    {
+      "name": "Rodolfo",
+      "age": 45,
+      "street": "Calle Mayor 45",
+      "city": "Madrid",
+      "id": "c9e8f7d6-5b4a-3c2d-1e0f-9d8e7f6c5b4a"
+    },
+    {
+      "name": "Maria",
+      "age": 32,
+      "phone": "+54 11 2345 6789",
+      "street": "Av. Corrientes 1234",
+      "city": "Buenos Aires",
+      "id": "d1e2f3g4-5h6i-7j8k-9l0m-1n2o3p4q5r6s"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "graphql-server",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "json-server": "json-server --watch db.json",
+    "dev": "bun run index.ts",
+    "nodemon": "nodemon --exec 'bun run index.ts'"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/nodemon": "^1.19.6",
+    "nodemon": "^3.1.9"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@types/eslint": "^9.6.1",
+    "@types/json-server": "^0.14.7",
+    "@types/uuid": "^10.0.0",
+    "apollo-server": "^3.13.0",
+    "axios": "^1.8.4",
+    "eslint": "^9.23.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-airbnb-typescript": "^18.0.0",
+    "graphql": "^16.10.0",
+    "json-server": "^1.0.0-beta.3",
+    "uuid": "^11.1.0"
+  }
+}
